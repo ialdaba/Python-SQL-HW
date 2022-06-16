@@ -1,0 +1,1 @@
+BookEncoded.txt is a book encoded with a Vigenere cipher. Maybe you can decode it someday?
